@@ -1,7 +1,7 @@
 # :v: Hey there, I'm Marcos 
 
 IT lover. Focused on continuing learning and share all information I can, looking for improve my social media skills, communication and hard skills with focus on 
-backend role (but I can do frontend too with if I need). 
+backend role (but I can do frontend too if I need). 
 
 # :computer: Technologies
  
